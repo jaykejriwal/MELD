@@ -13,7 +13,7 @@ PRAAT
 
 One Jupyter Notebook files is uploaded. The file presents a step-by-step procedure for extracting features and measuring entrainment distance. 
 
-R code is uploaded for further analysis.
+JASP code is uploaded for further analysis.
 
 ## Citation
 J. Kejriwal, "Relationship between speech entrainment and emotion," 2022 10th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW), Nara, Japan, 2022, pp. 1-4, doi: 10.1109/ACIIW57231.2022.10086027.
